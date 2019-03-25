@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">relo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="place_name" />
+    <string name="name" />
+    <string name="search" />
+    <string name="restautants" />
+    <string name="to" />
+</resources>
