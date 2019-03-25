@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">smsenc</string>
+    <string name="listen">LISTEN</string>
+    <string name="status">Status</string>
+    <string name="list_devices">LIST DEVICES</string>
+    <string name="message">MESSAGE</string>
+    <string name="type">TYPE</string>
+    <string name="send">SEND</string>
+</resources>
